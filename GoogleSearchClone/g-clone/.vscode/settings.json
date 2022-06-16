@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*html": "html"
+  },
+  "materialTheme.accent": "Teal"
+}
